@@ -1,0 +1,1349 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+126 items
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$BattleChoice$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$BattleChoice.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$BattleDetails$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$BattleDetails.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$BattleReq$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$BattleReq.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$BattleReqAccepted$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$BattleReqAccepted.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$ChangePokemon$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$ChangePokemon.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$CheckDC$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$CheckDC.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$EndBattle$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$EndBattle.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$InitializeGame$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$InitializeGame.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$Login$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$Login.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$Logout$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$Logout.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$MapChange$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$MapChange.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$Message$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$Message.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$MovementMsg$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$MovementMsg.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$Register$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$Register.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$RejectBattleReq$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$RejectBattleReq.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$Synchronizer$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$Synchronizer.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$FailLogin$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$FailLogin.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$FailRegister$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$LogoutSuccessful$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutBattleDetails$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutBattleDetails.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutBattleReq$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutBattleReq.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutBattleReqAccepted$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutBattleResult.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutBattleResultAlive$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutBattleResultAlive.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutBattleResultDead$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutBattleResultDead.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutChangePokimon$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutChangePokimon.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutEndBattle$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutEndBattle.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutEnterBattle$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutMessage$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutMessage.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutMovement$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutMovement.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutRejectBattleReq$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutRejectBattleReq.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutSynchronizer$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutSynchronizer.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutUpdate$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutUpdate.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$Registered$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$Registered.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Player$$anonfun$checkAlive$1.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Player$$anonfun$setPosition$1$$anonfun$apply$1.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Player$$anonfun$setPosition$1.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Player.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\BattleRouter$$anonfun$receive$3.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\BattleRouter.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\BattleServer$$anonfun$receive$4$$anonfun$applyOrElse$1$$anonfun$apply$mcV$sp$1.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\BattleServer$$anonfun$receive$4$$anonfun$applyOrElse$1.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\BattleServer$$anonfun$receive$4$$anonfun$applyOrElse$2$$anonfun$apply$mcV$sp$2.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\BattleServer$$anonfun$receive$4$$anonfun$applyOrElse$2.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\BattleServer$$anonfun$receive$4$$anonfun$applyOrElse$3$$anonfun$apply$mcV$sp$3.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\BattleServer$$anonfun$receive$4$$anonfun$applyOrElse$3.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\BattleServer$$anonfun$receive$4$$anonfun$applyOrElse$4$$anonfun$apply$mcV$sp$4.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\BattleServer$$anonfun$receive$4$$anonfun$applyOrElse$4.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\BattleServer$$anonfun$receive$4$$anonfun$applyOrElse$5$$anonfun$apply$mcV$sp$5.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\BattleServer$$anonfun$receive$4$$anonfun$applyOrElse$5.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\BattleServer$$anonfun$receive$4.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\BattleServer.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\ClientInfo.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\LoginRouter$$anonfun$receive$1.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\LoginRouter.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\LoginServer$$anonfun$receive$2$$anonfun$applyOrElse$9.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\LoginServer$$anonfun$receive$2.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\LoginServer.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementRouter$$anonfun$receive$5$$anonfun$applyOrElse$10$$anonfun$apply$1.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementRouter$$anonfun$receive$5$$anonfun$applyOrElse$10.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementRouter$$anonfun$receive$5$$anonfun$applyOrElse$11.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementRouter$$anonfun$receive$5.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementRouter.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$2.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$3.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$4.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$5.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$12.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$13.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$14.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$15.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$16.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$17.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$6$$anonfun$apply$mcV$sp$6.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$6.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$7$$anonfun$apply$mcV$sp$7.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$7.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$8$$anonfun$apply$mcV$sp$8.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$8.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\ServerAkka$$anonfun$1.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\ServerAkka$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\ServerAkka$delayedInit$body.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\ServerAkka.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\WorldObject\Element$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\WorldObject\Element.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\WorldObject\Pokimon$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\WorldObject\Pokimon.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\WorldObject\Skill$$anonfun$SkillData$1.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\WorldObject\Skill$$anonfun$SkillDataInit$1.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\WorldObject\Skill$.class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\WorldObject\Skill.class
+binary dependencies:
+19 items
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.12.jar
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\jfxrt.jar
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> C:\Users\PC\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> C:\Users\PC\.ivy2\cache\org.scalafx\scalafx_2.11\jars\scalafx_2.11-8.0.40-R8.jar
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.12.jar
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\.ivy2\cache\com.typesafe.akka\akka-remote_2.11\jars\akka-remote_2.11-2.4.12.jar
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\.ivy2\cache\com.typesafe\config\bundles\config-1.3.0.jar
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> C:\Users\PC\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> C:\Users\PC\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> C:\Users\PC\.ivy2\cache\org.scalafx\scalafx_2.11\jars\scalafx_2.11-8.0.40-R8.jar
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> C:\Users\PC\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+9 items
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+126 items
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$BattleChoice
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$BattleChoice$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$BattleDetails
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$BattleDetails$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$BattleReq
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$BattleReq$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$BattleReqAccepted
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$BattleReqAccepted$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$ChangePokemon
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$ChangePokemon$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$CheckDC
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$CheckDC$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$EndBattle
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$EndBattle$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$InitializeGame
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$InitializeGame$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$Login
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$Login$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$Logout
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$Logout$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$MapChange
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$MapChange$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$Message
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$Message$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$MovementMsg
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$MovementMsg$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$Register
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$Register$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$RejectBattleReq
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$RejectBattleReq$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$Synchronizer
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.Messages$Synchronizer$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$FailLogin
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$FailLogin$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$FailRegister$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$LogoutSuccessful$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$OutBattleDetails
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$OutBattleDetails$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$OutBattleReq
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$OutBattleReq$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$OutBattleReqAccepted$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$OutBattleResult
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$OutBattleResultAlive
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$OutBattleResultAlive$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$OutBattleResultDead
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$OutBattleResultDead$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$OutChangePokimon
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$OutChangePokimon$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$OutEndBattle
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$OutEndBattle$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$OutEnterBattle$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$OutMessage
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$OutMessage$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$OutMovement
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$OutMovement$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$OutRejectBattleReq
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$OutRejectBattleReq$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$OutSynchronizer
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$OutSynchronizer$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$OutUpdate
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$OutUpdate$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$Registered
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World.OutMessages$Registered$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> World.Player
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> World.Player$$anonfun$checkAlive$1
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> World.Player$$anonfun$setPosition$1
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> World.Player$$anonfun$setPosition$1$$anonfun$apply$1
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.BattleRouter
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.BattleRouter$$anonfun$receive$3
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.BattleServer
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.BattleServer$$anonfun$receive$4
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.BattleServer$$anonfun$receive$4$$anonfun$applyOrElse$1
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.BattleServer$$anonfun$receive$4$$anonfun$applyOrElse$1$$anonfun$apply$mcV$sp$1
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.BattleServer$$anonfun$receive$4$$anonfun$applyOrElse$2
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.BattleServer$$anonfun$receive$4$$anonfun$applyOrElse$2$$anonfun$apply$mcV$sp$2
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.BattleServer$$anonfun$receive$4$$anonfun$applyOrElse$3
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.BattleServer$$anonfun$receive$4$$anonfun$applyOrElse$3$$anonfun$apply$mcV$sp$3
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.BattleServer$$anonfun$receive$4$$anonfun$applyOrElse$4
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.BattleServer$$anonfun$receive$4$$anonfun$applyOrElse$4$$anonfun$apply$mcV$sp$4
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.BattleServer$$anonfun$receive$4$$anonfun$applyOrElse$5
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.BattleServer$$anonfun$receive$4$$anonfun$applyOrElse$5$$anonfun$apply$mcV$sp$5
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.ClientInfo
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.LoginRouter
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.LoginRouter$$anonfun$receive$1
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.LoginServer
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.LoginServer$$anonfun$receive$2
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.LoginServer$$anonfun$receive$2$$anonfun$applyOrElse$9
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.MovementRouter
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.MovementRouter$$anonfun$receive$5
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.MovementRouter$$anonfun$receive$5$$anonfun$applyOrElse$10
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.MovementRouter$$anonfun$receive$5$$anonfun$applyOrElse$10$$anonfun$apply$1
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.MovementRouter$$anonfun$receive$5$$anonfun$applyOrElse$11
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.MovementServer
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.MovementServer$$anonfun$receive$6
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.MovementServer$$anonfun$receive$6$$anonfun$2
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.MovementServer$$anonfun$receive$6$$anonfun$3
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.MovementServer$$anonfun$receive$6$$anonfun$4
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.MovementServer$$anonfun$receive$6$$anonfun$5
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$12
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$13
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$14
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$15
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$16
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$17
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$6
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$6$$anonfun$apply$mcV$sp$6
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$7
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$7$$anonfun$apply$mcV$sp$7
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$8
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$8$$anonfun$apply$mcV$sp$8
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.ServerAkka
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.ServerAkka$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.ServerAkka$$anonfun$1
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World.ServerAkka$delayedInit$body
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> WorldObject.Element
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> WorldObject.Element$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> WorldObject.Pokimon
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> WorldObject.Pokimon$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> WorldObject.Skill
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> WorldObject.Skill$
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> WorldObject.Skill$$anonfun$SkillData$1
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> WorldObject.Skill$$anonfun$SkillDataInit$1
+used names:
+825 items
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> &&
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> <init>
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> ==
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> A
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> AbstractFunction1
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> AbstractFunction2
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> AbstractFunction3
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> AbstractFunction4
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> AbstractFunction5
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> AbstractFunction6
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> AbstractFunction8
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> AbstractFunction9
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> Address
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> Any
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> AnyRef
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> BattleChoice
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> BattleDetails
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> BattleReq
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> BattleReqAccepted
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> Boolean
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> ChangePokemon
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> CheckDC
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> Double
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> EndBattle
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> FailLogin
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> FailRegister
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> IndexOutOfBoundsException
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> InitializeGame
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> Int
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> Iterator
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> Login
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> Logout
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> LogoutSuccessful
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> MapChange
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> Message
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> Messages
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> MovementMsg
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> None
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> Nothing
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> Object
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> OutBattleDetails
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> OutBattleReq
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> OutBattleReqAccepted
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> OutBattleResult
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> OutBattleResultAlive
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> OutBattleResultDead
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> OutChangePokimon
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> OutEndBattle
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> OutEnterBattle
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> OutMessage
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> OutMessages
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> OutMovement
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> OutRejectBattleReq
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> OutSynchronizer
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> OutUpdate
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> Player
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> Pokimon
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> Predef
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> Product
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> Register
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> Registered
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> RejectBattleReq
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> ScalaRunTime
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> Serializable
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> Some
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> Statics
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> String
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> Synchronizer
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> T
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> T0
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> T1
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> T2
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> T3
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> T4
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> T5
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> T6
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> T7
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> T8
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> T9
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> Tuple2
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> Tuple3
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> Tuple4
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> Tuple5
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> Tuple6
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> Tuple8
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> Tuple9
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> World
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> WorldObject
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> _hashCode
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> _toString
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> actor
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> akka
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> alivePoki
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> alivePokiChoice
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> anyHash
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> asInstanceOf
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> choice
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> coordsX
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> coordsY
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> deadPoki
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> deadPokiChoice
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> deadPokimonOwnerName
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> dmgTakemPoki1
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> dmgTakenAlivePoki
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> dmgTakenDeadPoki
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> dmgTakenPoki2
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> doubleHash
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> eq
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> finalizeHash
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> initialize
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> isInstanceOf
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> mapNum
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> mapType
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> mix
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> move
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> msg
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> name
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> oppName
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> pMapNum
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> pMapType
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> package
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> password
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> player
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> poki
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> poki1
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> poki1Choice
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> poki1Owner
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> poki2
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> poki2Choice
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> reason
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> receipientName
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> remoteAddress
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> requester
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> runtime
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> scala
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> skillAlivePoki
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> skillDeadPoki
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> skillPoki1
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> skillPoki2
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> toReqName
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> toString
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> typedProductIterator
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> ||
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> +
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> ->
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> <
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> <=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> <init>
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> <repeated>
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> ==
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> >
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> A
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> Any
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> AnyRef
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> Array
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> ArrayBuffer
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> ArrayOps
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> ArrowAssoc
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> B
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> Boolean
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> Double
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> Function1
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> Image
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> ImageView
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> Int
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> Integer
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> ListMap
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> MatchError
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> Nothing
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> Object
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> Player
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> Pokimon
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> Predef
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> Serializable
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> String
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> StringProperty
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> T
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> T0
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> Tuple2
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> U
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> Unit
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> World
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> WorldObject
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> append
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> apply
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> beans
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> caughtPoki
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> char
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charDown
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charDown_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charLeft
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charLeftDown
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charLeftDown_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charLeftLeft
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charLeftLeft_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charLeftRight
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charLeftRight_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charLeftUp
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charLeftUp_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charLeft_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charRight
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charRightDown
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charRightDown_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charRightLeft
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charRightLeft_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charRightRight
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charRightRight_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charRightUp
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charRightUp_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charRight_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charStandingDown
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charStandingDown_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charStandingLeft
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charStandingLeft_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charStandingRight
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charStandingRight_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charStandingUp
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charStandingUp_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charType
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charUp
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> charUp_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> collection
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> coordsX
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> coordsX_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> coordsY
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> coordsY_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> createPokimon
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> direction
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> foreach
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> health
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> image
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> index
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> int2Integer
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> java
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> lang
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> length
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> mapNum
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> mapType
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> moneyInt
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> mutable
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> name
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> pcPoki
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> playerSprite
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> playerSprite_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> pokemonAlive
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> pokiPotion
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> pokiPotionBuffer
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> pokiballBuffer
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> pokiballs
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> positionX
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> positionY
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> previousCoordsX
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> previousCoordsY
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> previousMap
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> previousMapType
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> property
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> refArrayOps
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> remove
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> scala
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> scalafx
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> scene
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> setX
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> setXY
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> setY
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> sfxImageView2jfx
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> synchronized
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> toDouble
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> trainerPoki
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> update
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> value
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> visible_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> x
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> y
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> !
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> !=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> &&
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> +
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> <
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> <=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> <byname>
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> <init>
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> <repeated>
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> ==
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> >
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> ?0
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> A
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> A1
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> AbstractPartialFunction
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Actor
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> ActorContext
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> ActorPath
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> ActorRef
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> ActorRefRoutee
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> ActorSystem
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Address
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Any
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> AnyRef
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> App
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Array
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> ArrayBuffer
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> ArrayOps
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> B1
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> BattleChoice
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> BattleDetails
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> BattleReq
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> BattleReqAccepted
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> BattleRouter
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> BattleServer
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Boolean
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Breaks
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> BufferedReader
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> ChangePokemon
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> CharSequence
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> ClientInfo
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Config
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> ConfigFactory
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> DisassociatedEvent
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Double
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> EndBattle
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> EventStream
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> FailLogin
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> FailRegister
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> File
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> FileInputStream
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> FileOutputStream
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> FileReader
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> FromConfig
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Function1
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Future
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> InputStream
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Int
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Integer
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Integer2int
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Iterable
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> ListMap
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Login
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> LoginRouter
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> LoginServer
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Logout
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> LogoutSuccessful
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Long
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> MapChange
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Message
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Messages
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> MovementMsg
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> MovementRouter
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> MovementServer
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> NoSuchElementException
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Nothing
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> NullPointerException
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Object
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> ObjectInputStream
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> ObjectOutputStream
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Option
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> OutBattleDetails
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> OutBattleReq
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> OutBattleReqAccepted
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> OutBattleResult
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> OutBattleResultAlive
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> OutBattleResultDead
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> OutChangePokimon
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> OutEndBattle
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> OutMessage
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> OutMessages
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> OutMovement
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> OutRejectBattleReq
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> OutSynchronizer
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> OutUpdate
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> OutputStream
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Player
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Pokimon
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Predef
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> PrintWriter
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Props
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Random
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Reader
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Register
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Registered
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> RejectBattleReq
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Router
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> ScalaActorRef
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> ServerAkka
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Skill
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> StdIn
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> String
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> StringContext
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> StringOps
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Synchronizer
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> T
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> T0
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> T1
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> T2
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> T3
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> T4
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Terminated
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Thread
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Tuple2
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Tuple4
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> U
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> Unit
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> World
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> WorldObject
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> ^
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> _$2
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> _$8
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> _1
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> _2
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> _3
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> _4
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> actor
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> actorOf
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> actorRef2Scala
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> address
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> akka
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> append
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> apply
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> asInstanceOf
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> augmentString
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> battleServerActor
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> break
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> breakable
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> breakableLoop
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> buffSkill
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> buffer
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> choice
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> choice2nd
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> client
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> clientActor
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> clientCoordsX
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> clientCoordsX_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> clientCoordsY
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> clientCoordsY_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> clientList
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> clientName
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> client_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> clients
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> close
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> collection
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> com
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> config
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> contains
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> context
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> control
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> coordsX
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> coordsY
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> count
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> counter
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> counter_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> damage
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> damage1
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> debuffSkill
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> description
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> dmgDealPk
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> dmgDealSkill
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> dmgTakePk
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> doDmg
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> element
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> equals
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> errorProneStatement
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> eventStream
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> exists
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> fileMain
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> foreach
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> found
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> getClass
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> getOrElse
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> health
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> index
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> initialize
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> io
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> isInstanceOf
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> java
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> keys
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> lang
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> length
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> listFiles
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> login
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> loginServerActor
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> mainDir
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> map
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> mapNum
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> mapType
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> mkdir
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> move
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> movementServerActor
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> msg
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> mutable
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> name
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> ne
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> nextBoolean
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> nullskill
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> oInputStream
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> oos
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> oppName
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> outcome
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> pClients
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> pMapNum
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> pMapType
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> package
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> parent
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> parseFile
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> pass
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> password
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> path
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> player
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> player1
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> player1Choice
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> player2
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> player2Choice
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> playerFolder
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> playerObject
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> players
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> poki
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> pokimon2nd
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> power
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> print
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> println
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> processBattle
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> props
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> put
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> readLine
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> readObject
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> reader
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> reason
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> receipientName
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> refArrayOps
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> remote
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> remoteAddress
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> remove
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> requester
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> router
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> routing
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> s
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> scala
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> self
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> sender
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> sent
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> size
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> skillSet
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> sleep
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> speed
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> split
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> strings
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> subscribe
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> synchronized
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> system
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> takeDmg
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> tell
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> terminate
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> toDouble
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> toInt
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> toLowerCase
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> toReqName
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> toString
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> typesafe
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> unary_!
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> unchecked
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> update
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> util
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> waitingBattleList
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> while$1
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> while$2
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> while$3
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> while$4
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> while$5
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> while$6
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> writeObject
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> writer
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> x
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> y
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> ->
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> <init>
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> <repeated>
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> A
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> Any
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> Array
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> ArrowAssoc
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> B
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> ClassTag
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> Double
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> Element
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> Int
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> ListMap
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> Nothing
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> Object
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> Predef
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> Serializable
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> String
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> T
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> Tuple2
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> Unit
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> WorldObject
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> apply
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> atk
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> collection
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> defe
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> elem
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> elemRep
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> immutable
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> materializeClassTag
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> ofDim
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> package
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> relationship
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> scala
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> update
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> !=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> *
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> +
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> -
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> /
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> <
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> <=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> <init>
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> <repeated>
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> ==
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> >
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> >=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> ?0
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> A
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> Any
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> AnyRef
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> Array
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> ArrayBuffer
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> Boolean
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> Breaks
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> Class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> ClassLoader
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> ClassTag
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> Double
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> Element
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> Image
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> InputStream
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> Int
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> Integer
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> Integer2int
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> Nothing
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> Object
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> Pokimon
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> Predef
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> Random
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> Serializable
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> Skill
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> SkillData
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> SkillDataInit
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> String
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> StringContext
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> StringOps
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> T
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> T0
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> T1
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> T2
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> Tuple2
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> Unit
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> WorldObject
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> _$7
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> _battleDamage
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> _battleDamage_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> _battleDefense
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> _battleDefense_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> _health
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> _health_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> append
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> apply
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> arg$macro$1
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> arg$macro$10
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> arg$macro$11
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> arg$macro$12
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> arg$macro$2
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> arg$macro$3
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> arg$macro$4
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> arg$macro$5
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> arg$macro$6
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> arg$macro$7
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> arg$macro$8
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> arg$macro$9
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> asInstanceOf
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> baseDef
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> baseDef_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> baseDmg
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> baseDmg_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> battleDamage
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> battleDamage_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> battleDefense
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> battleDefense_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> buffDef
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> collection
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> control
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> correctness
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> damage
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> debuffDef
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> dmg
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> elem
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> element
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> equals
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> f
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> format
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> fullSkillCounter
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> getClass
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> getClassLoader
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> getImagePath
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> getIntFromElem
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> getMultiplier
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> getResourceAsStream
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> health
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> health_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> image
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> imagePath
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> immutable
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> length
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> level
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> mapValue
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> materializeClassTag
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> maxHealth
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> maxHealth_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> name
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> nextDouble
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> nextInt
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> o
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> obj
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> ofDim
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> oppElem
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> package
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> path
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> poki
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> pokiLevel
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> pokiLevel_=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> pokiName
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> pokimon
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> power
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> pukiman
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> pukimanDirectory
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> randomed
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> s
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> scala
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> scalafx
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> scene
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> skill
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> skillSet
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> speed
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> toLowerCase
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> toString
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> toUpperCase
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> unary_!
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> update
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> util
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> value
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> &&
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> +
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> -
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> <=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> <init>
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> <repeated>
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> ==
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> >
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> A
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> Any
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> AnyRef
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> Array
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> ArrayBuffer
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> Boolean
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> Breaks
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> Class
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> ClassTag
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> ElementLevelPower
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> Function1
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> Inclusive
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> Int
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> Integer
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> Nothing
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> Object
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> Predef
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> Range
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> RichInt
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> Serializable
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> Skill
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> String
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> StringOps
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> T
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> T0
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> U
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> Unit
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> WorldObject
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> _$7
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> _description
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> _element
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> _level
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> _name
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> _power
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> append
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> apply
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> asInstanceOf
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> augmentString
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> collection
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> control
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> correctness
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> data
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> description
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> element
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> equals
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> foreach
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> intWrapper
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> java
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> lang
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> length
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> level
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> materializeClassTag
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> mutable
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> name
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> o
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> obj
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> ofDim
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> package
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> power
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> remove
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> resultingArray
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> scala
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> something
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> to
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> toInt
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> update
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> util
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> valueOf
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> x
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> ||
+product stamps:
+126 items
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\BattleRouter$$anonfun$receive$3.class -> lastModified(1506610819451)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\BattleRouter.class -> lastModified(1506610819425)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\BattleServer$$anonfun$receive$4$$anonfun$applyOrElse$1$$anonfun$apply$mcV$sp$1.class -> lastModified(1506610819534)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\BattleServer$$anonfun$receive$4$$anonfun$applyOrElse$1.class -> lastModified(1506610819525)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\BattleServer$$anonfun$receive$4$$anonfun$applyOrElse$2$$anonfun$apply$mcV$sp$2.class -> lastModified(1506610819550)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\BattleServer$$anonfun$receive$4$$anonfun$applyOrElse$2.class -> lastModified(1506610819541)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\BattleServer$$anonfun$receive$4$$anonfun$applyOrElse$3$$anonfun$apply$mcV$sp$3.class -> lastModified(1506610819568)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\BattleServer$$anonfun$receive$4$$anonfun$applyOrElse$3.class -> lastModified(1506610819559)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\BattleServer$$anonfun$receive$4$$anonfun$applyOrElse$4$$anonfun$apply$mcV$sp$4.class -> lastModified(1506610819585)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\BattleServer$$anonfun$receive$4$$anonfun$applyOrElse$4.class -> lastModified(1506610819575)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\BattleServer$$anonfun$receive$4$$anonfun$applyOrElse$5$$anonfun$apply$mcV$sp$5.class -> lastModified(1506610819615)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\BattleServer$$anonfun$receive$4$$anonfun$applyOrElse$5.class -> lastModified(1506610819596)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\BattleServer$$anonfun$receive$4.class -> lastModified(1506610819515)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\BattleServer.class -> lastModified(1506610819494)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\ClientInfo.class -> lastModified(1506610819625)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\LoginRouter$$anonfun$receive$1.class -> lastModified(1506610819661)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\LoginRouter.class -> lastModified(1506610819643)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\LoginServer$$anonfun$receive$2$$anonfun$applyOrElse$9.class -> lastModified(1506610819703)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\LoginServer$$anonfun$receive$2.class -> lastModified(1506610819692)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\LoginServer.class -> lastModified(1506610819674)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$.class -> lastModified(1506610819724)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$BattleChoice$.class -> lastModified(1506610819736)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$BattleChoice.class -> lastModified(1506610819752)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$BattleDetails$.class -> lastModified(1506610819760)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$BattleDetails.class -> lastModified(1506610819776)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$BattleReq$.class -> lastModified(1506610819799)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$BattleReq.class -> lastModified(1506610819791)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$BattleReqAccepted$.class -> lastModified(1506610819829)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$BattleReqAccepted.class -> lastModified(1506610819814)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$ChangePokemon$.class -> lastModified(1506610819843)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$ChangePokemon.class -> lastModified(1506610819863)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$CheckDC$.class -> lastModified(1506610819892)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$CheckDC.class -> lastModified(1506610819879)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$EndBattle$.class -> lastModified(1506610819926)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$EndBattle.class -> lastModified(1506610819908)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$InitializeGame$.class -> lastModified(1506610819943)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$InitializeGame.class -> lastModified(1506610819959)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$Login$.class -> lastModified(1506610819981)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$Login.class -> lastModified(1506610819973)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$Logout$.class -> lastModified(1506610820010)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$Logout.class -> lastModified(1506610819994)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$MapChange$.class -> lastModified(1506610820027)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$MapChange.class -> lastModified(1506610820019)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$Message$.class -> lastModified(1506610820038)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$Message.class -> lastModified(1506610820043)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$MovementMsg$.class -> lastModified(1506610820060)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$MovementMsg.class -> lastModified(1506610820051)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$Register$.class -> lastModified(1506610820083)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$Register.class -> lastModified(1506610820077)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$RejectBattleReq$.class -> lastModified(1506610820124)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$RejectBattleReq.class -> lastModified(1506610820136)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$Synchronizer$.class -> lastModified(1506610820143)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages$Synchronizer.class -> lastModified(1506610820155)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Messages.class -> lastModified(1506610819717)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementRouter$$anonfun$receive$5$$anonfun$applyOrElse$10$$anonfun$apply$1.class -> lastModified(1506610820200)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementRouter$$anonfun$receive$5$$anonfun$applyOrElse$10.class -> lastModified(1506610820192)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementRouter$$anonfun$receive$5$$anonfun$applyOrElse$11.class -> lastModified(1506610820207)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementRouter$$anonfun$receive$5.class -> lastModified(1506610820184)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementRouter.class -> lastModified(1506610820168)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$2.class -> lastModified(1506610820244)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$3.class -> lastModified(1506610820254)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$4.class -> lastModified(1506610820260)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$5.class -> lastModified(1506610820269)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$12.class -> lastModified(1506610820276)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$13.class -> lastModified(1506610820283)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$14.class -> lastModified(1506610820291)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$15.class -> lastModified(1506610820300)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$16.class -> lastModified(1506610820308)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$17.class -> lastModified(1506610820316)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$6$$anonfun$apply$mcV$sp$6.class -> lastModified(1506610820333)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$6.class -> lastModified(1506610820324)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$7$$anonfun$apply$mcV$sp$7.class -> lastModified(1506610820351)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$7.class -> lastModified(1506610820340)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$8$$anonfun$apply$mcV$sp$8.class -> lastModified(1506610820372)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6$$anonfun$applyOrElse$8.class -> lastModified(1506610820360)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer$$anonfun$receive$6.class -> lastModified(1506610820236)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\MovementServer.class -> lastModified(1506610820220)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$.class -> lastModified(1506610820391)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$FailLogin$.class -> lastModified(1506610820403)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$FailLogin.class -> lastModified(1506610820413)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$FailRegister$.class -> lastModified(1506610820423)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$LogoutSuccessful$.class -> lastModified(1506610820430)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutBattleDetails$.class -> lastModified(1506610820439)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutBattleDetails.class -> lastModified(1506610820447)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutBattleReq$.class -> lastModified(1506610820468)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutBattleReq.class -> lastModified(1506610820458)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutBattleReqAccepted$.class -> lastModified(1506610820476)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutBattleResult.class -> lastModified(1506610820522)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutBattleResultAlive$.class -> lastModified(1506610820530)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutBattleResultAlive.class -> lastModified(1506610820543)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutBattleResultDead$.class -> lastModified(1506610820552)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutBattleResultDead.class -> lastModified(1506610820562)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutChangePokimon$.class -> lastModified(1506610820588)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutChangePokimon.class -> lastModified(1506610820576)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutEndBattle$.class -> lastModified(1506610820620)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutEndBattle.class -> lastModified(1506610820609)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutEnterBattle$.class -> lastModified(1506610820629)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutMessage$.class -> lastModified(1506610820639)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutMessage.class -> lastModified(1506610820648)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutMovement$.class -> lastModified(1506610820657)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutMovement.class -> lastModified(1506610820737)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutRejectBattleReq$.class -> lastModified(1506610820770)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutRejectBattleReq.class -> lastModified(1506610820795)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutSynchronizer$.class -> lastModified(1506610820803)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutSynchronizer.class -> lastModified(1506610820810)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutUpdate$.class -> lastModified(1506610820818)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$OutUpdate.class -> lastModified(1506610820824)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$Registered$.class -> lastModified(1506610820839)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages$Registered.class -> lastModified(1506610820832)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\OutMessages.class -> lastModified(1506610820385)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Player$$anonfun$checkAlive$1.class -> lastModified(1506610820862)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Player$$anonfun$setPosition$1$$anonfun$apply$1.class -> lastModified(1506610820879)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Player$$anonfun$setPosition$1.class -> lastModified(1506610820872)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\Player.class -> lastModified(1506610820856)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\ServerAkka$$anonfun$1.class -> lastModified(1506610820910)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\ServerAkka$.class -> lastModified(1506610820903)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\ServerAkka$delayedInit$body.class -> lastModified(1506610820918)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\World\ServerAkka.class -> lastModified(1506610820890)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\WorldObject\Element$.class -> lastModified(1506610820934)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\WorldObject\Element.class -> lastModified(1506610820924)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\WorldObject\Pokimon$.class -> lastModified(1506610820975)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\WorldObject\Pokimon.class -> lastModified(1506610820950)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\WorldObject\Skill$$anonfun$SkillData$1.class -> lastModified(1506610820999)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\WorldObject\Skill$$anonfun$SkillDataInit$1.class -> lastModified(1506610821008)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\WorldObject\Skill$.class -> lastModified(1506610820985)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\target\scala-2.11\classes\WorldObject\Skill.class -> lastModified(1506610820990)
+source stamps:
+6 items
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> hash(e824ad09440f5327ba347b9ec1180e307763bb4f)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> hash(762723aca7b6dfb2937d486ceca59112aad66cf6)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> hash(7783376f64221f77beeab241f07c7a2171b892ab)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> hash(80a702a514e474c720bd096ea753f7a2cf83a984)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> hash(49161fe382241903d3effe14434cb7a908c2681b)
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> hash(3c38aaeebec22e50ad8a6f46c1ad67c00d396444)
+binary stamps:
+7 items
+C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\jfxrt.jar -> lastModified(1506071855371)
+C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar -> lastModified(1506071861718)
+C:\Users\PC\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.12.jar -> lastModified(1477668923000)
+C:\Users\PC\.ivy2\cache\com.typesafe.akka\akka-remote_2.11\jars\akka-remote_2.11-2.4.12.jar -> lastModified(1477670483000)
+C:\Users\PC\.ivy2\cache\com.typesafe\config\bundles\config-1.3.0.jar -> lastModified(1431099969000)
+C:\Users\PC\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> lastModified(1457105192000)
+C:\Users\PC\.ivy2\cache\org.scalafx\scalafx_2.11\jars\scalafx_2.11-8.0.40-R8.jar -> lastModified(1426650353000)
+class names:
+7 items
+C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\jfxrt.jar -> javafx.scene.image.ImageView
+C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar -> java.lang.Object
+C:\Users\PC\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.12.jar -> akka.actor.Actor
+C:\Users\PC\.ivy2\cache\com.typesafe.akka\akka-remote_2.11\jars\akka-remote_2.11-2.4.12.jar -> akka.remote.DisassociatedEvent
+C:\Users\PC\.ivy2\cache\com.typesafe\config\bundles\config-1.3.0.jar -> com.typesafe.config.ConfigFactory
+C:\Users\PC\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> scala.App
+C:\Users\PC\.ivy2\cache\org.scalafx\scalafx_2.11\jars\scalafx_2.11-8.0.40-R8.jar -> scalafx.beans.property.StringProperty$
+internal apis:
+6 items
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwjCUcJwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAB0c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwe4YxHHQAB0NoZWNrRENzcQB+AAxt/thGdAATT3V0QmF0dGxlUmVzdWx0RGVhZHNxAH4ADIU1YFJ0AAlCYXR0bGVSZXFzcQB+AAwWg2JWdAAGbm90aWZ5c3EAfgAMONSFv3QAEWRtZ1Rha2VuQWxpdmVQb2tpc3EAfgAM/xad3nQAB3VuYXBwbHlzcQB+AAx3ISjUdAAHY3VycmllZHNxAH4ADLk5RK10AAxGYWlsUmVnaXN0ZXJzcQB+AAw7zQBIdAAKUmVnaXN0ZXJlZHNxAH4ADLPDChF0AAlGYWlsTG9naW5zcQB+AAzDHsaCdAAEbmFtZXNxAH4ADHlinuh0AApwb2tpMU93bmVyc3EAfgAMxHg4b3QABG1vdmVzcQB+AAw/iw6DdAAJTWFwQ2hhbmdlc3EAfgAMTPU9knQADWRtZ1Rha2VtUG9raTFzcQB+AAzDgBAFdAAKT3V0TWVzc2FnZXNxAH4ADAODw5l0AAR3YWl0c3EAfgAMXsMPx3QAEUJhdHRsZVJlcUFjY2VwdGVkc3EAfgAM197SXHQADmNvcHkkZGVmYXVsdCQyc3EAfgAM3awj7nQADSRhc0luc3RhbmNlT2ZzcQB+AAxyyuuVdAAOZGVhZFBva2lDaG9pY2VzcQB+AAwHaG65dAAOY29weSRkZWZhdWx0JDVzcQB+AAx/SewtdAAHY29tcG9zZXNxAH4ADPg5Kj90AAdtYXBUeXBlc3EAfgAMoYfhXHQAB3BNYXBOdW1zcQB+AAxTouCadAAMcHJvZHVjdEFyaXR5c3EAfgAMiyeGk3QABmVxdWFsc3NxAH4ADOO36K10AAl0b1JlcU5hbWVzcQB+AAw75+OadAAQT3V0QmF0dGxlRGV0YWlsc3NxAH4ADC6YGfF0AAdvcHBOYW1lc3EAfgAMW5+O/XQADmNvcHkkZGVmYXVsdCQ5c3EAfgAMg8n0NHQAD2FsaXZlUG9raUNob2ljZXNxAH4ADIVy0N10AAhkZWFkUG9raXNxAH4ADOOtcUh0AAxhc0luc3RhbmNlT2ZzcQB+AAy5r7P5dAAHY29vcmRzWXNxAH4ADPiqYDt0AAxzeW5jaHJvbml6ZWRzcQB+AAwrDR69dAALT3V0TW92ZW1lbnRzcQB+AAwAjuDJdAAJYWxpdmVQb2tpc3EAfgAMGS/dhHQACU91dFVwZGF0ZXNxAH4ADLU3OgR0AAlyZXF1ZXN0ZXJzcQB+AAw8oHTWdAANJGlzSW5zdGFuY2VPZnNxAH4ADMedW3F0AAdhbmRUaGVuc3EAfgAM3wUpMXQADmNvcHkkZGVmYXVsdCQ4c3EAfgAM9p1SDXQABnR1cGxlZHNxAH4ADCBMQKZ0ABJPdXRSZWplY3RCYXR0bGVSZXFzcQB+AAyWlcHidAAPUmVqZWN0QmF0dGxlUmVxc3EAfgAMLndEAHQADXNraWxsRGVhZFBva2lzcQB+AAyGFFXndAAIY2FuRXF1YWxzcQB+AAw2hhZLdAAMT3V0QmF0dGxlUmVxc3EAfgAMe6+FrnQADmNvcHkkZGVmYXVsdCQ0c3EAfgAME1qFwHQADXByb2R1Y3RQcmVmaXhzcQB+AAzq8yHHdAAGcmVhc29uc3EAfgAMSyKucXQACnNraWxsUG9raTJzcQB+AAxYKiTodAAJbm90aWZ5QWxsc3EAfgAM+iaGfHQACmluaXRpYWxpemVzcQB+AAzp/HPldAALTW92ZW1lbnRNc2dzcQB+AAxkCOqDdAALcG9raTFDaG9pY2VzcQB+AAxunxsBdAAMQmF0dGxlQ2hvaWNlc3EAfgAMQlAWyXQADGlzSW5zdGFuY2VPZnNxAH4ADHY33eV0AAZMb2dvdXRzcQB+AAxBPzIkdAAUT3V0QmF0dGxlUmVxQWNjZXB0ZWRzcQB+AAw/NkM0dAAJRW5kQmF0dGxlc3EAfgAM/SIKs3QABUxvZ2luc3EAfgAMKMROiHQABjxpbml0PnNxAH4ADEmWohN0AAhNZXNzYWdlc3NxAH4ADBRayel0AAdjb29yZHNYc3EAfgAMTaBeZHQABnBsYXllcnNxAH4ADBeIB2Z0AA5Jbml0aWFsaXplR2FtZXNxAH4ADFlNa6F0ABBMb2dvdXRTdWNjZXNzZnVsc3EAfgAM5PK1bnQABWFwcGx5c3EAfgAMY/QJ23QAAj09c3EAfgAMKBxEmHQABXBva2kyc3EAfgAMJfxQQHQABWNsb25lc3EAfgAMRh2yVHQADE91dEVuZEJhdHRsZXNxAH4ADAPLm3V0ABRPdXRCYXR0bGVSZXN1bHRBbGl2ZXNxAH4ADMPZh/h0AApza2lsbFBva2kxc3EAfgAMrD0hinQADmNvcHkkZGVmYXVsdCQ3c3EAfgAMPGzaP3QABm1hcE51bXNxAH4ADJW+Y0l0AA5yZWNlaXBpZW50TmFtZXNxAH4ADJX5mOV0AAYkaW5pdCRzcQB+AAxOB555dAAIcE1hcFR5cGVzcQB+AAy5PfixdAANQmF0dGxlRGV0YWlsc3NxAH4ADIxOPQJ0AAdNZXNzYWdlc3EAfgAMvGf5u3QAD091dEJhdHRsZVJlc3VsdHNxAH4ADMTMIXV0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADJfW8Ol0AAZjaG9pY2VzcQB+AAz83m+0dAAEY29weXNxAH4ADG0CBAx0AAtwb2tpMkNob2ljZXNxAH4ADAkKozJ0AAh0b1N0cmluZ3NxAH4ADLUhqXh0AANtc2dzcQB+AAxU4prUdAACIT1zcQB+AAzk+OcpdAAUZGVhZFBva2ltb25Pd25lck5hbWVzcQB+AAwPRAoydAAIZ2V0Q2xhc3NzcQB+AAyVOYgwdAAOY29weSRkZWZhdWx0JDFzcQB+AAzkSX3ldAAQZG1nVGFrZW5EZWFkUG9raXNxAH4ADB0EHuV0AAtPdXRNZXNzYWdlc3NxAH4ADMNRJXd0AAVwb2tpMXNxAH4ADK8fr5V0AA9PdXRTeW5jaHJvbml6ZXJzcQB+AAyDAOandAAOY29weSRkZWZhdWx0JDZzcQB+AAx2KuQHdAACbmVzcQB+AAyjgftEdAANZG1nVGFrZW5Qb2tpMnNxAH4ADMrspNx0ABBPdXRDaGFuZ2VQb2tpbW9uc3EAfgAMID9wQ3QADFN5bmNocm9uaXplcnNxAH4ADN97U+J0AA1DaGFuZ2VQb2tlbW9uc3EAfgAMvYLW4nQAAmVxc3EAfgAM07LVX3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADIwOgc10AAhSZWdpc3RlcnNxAH4ADIbV85h0AA1yZW1vdGVBZGRyZXNzc3EAfgAMqSj/cXQAAiMjc3EAfgAMiUPK33QACGZpbmFsaXplc3EAfgAMxHfG5HQADnNraWxsQWxpdmVQb2tpc3EAfgAMhpfB3nQADnByb2R1Y3RFbGVtZW50c3EAfgAMh+hD+nQACGhhc2hDb2Rlc3EAfgAMl542/3QADk91dEVudGVyQmF0dGxlc3EAfgAMKAtNL3QACHBhc3N3b3Jkc3EAfgAMuH72NnQABHBva2lzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgD/eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAOV29ybGQuTWVzc2FnZXN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+ARdzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4A/0wACWluaGVyaXRlZHEAfgD/TAAHcGFyZW50c3EAfgD/eHEAfgEcc3EAfgEXdXEAfgD6AAAAAHNxAH4BF3VxAH4A+gAAAABzcQB+ARd1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ARt0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ARtzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+ATR0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ATVzcQB+ASh0AANBbnlzcQB+ASxzcQB+AS91cQB+ATIAAAACc3EAfgE0dAAFc2NhbGFxAH4BO3NxAH4A/HEAfgEJdXEAfgEKAAAAAHNxAH4BDAB0ABFXb3JsZC5PdXRNZXNzYWdlc3VxAH4BDwAAAABxAH4BE3VxAH4BFQAAAABzcQB+ARdxAH4BHXNxAH4BF3NxAH4BH3NxAH4BF3VxAH4A+gAAAABzcQB+ARd1cQB+APoAAAAAc3EAfgEXdXEAfgEmAAAAAnNxAH4BKHEAfgErc3EAfgEsc3EAfgEvdXEAfgEyAAAAA3NxAH4BNHEAfgE3c3EAfgE0cQB+ATlxAH4BO3NxAH4BKHEAfgE9c3EAfgEsc3EAfgEvdXEAfgEyAAAAAnNxAH4BNHEAfgFCcQB+ATt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAVXb3JsZHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXskAiFx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABEQzpcVXNlcnNcUENcRGVza3RvcFxQb2tlbW9uIE1NTyBTZXJ2ZXJcYmluXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABToJK0JRA9TJ7o0e57BGA4wd2O7Tw==
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwLM6zGgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAABBc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw+S2fVXQABm5vdGlmeXNxAH4ADIaRwRJ0AAtwcmV2aW91c01hcHNxAH4ADKwBCvh0AAxwbGF5ZXJTcHJpdGVzcQB+AAzMc4kNdAAEbmFtZXNxAH4ADI0dubJ0AAZQbGF5ZXJzcQB+AAw+dukcdAAMY2hhckxlZnRMZWZ0c3EAfgAMVtARHHQAC3NldFBvc2l0aW9uc3EAfgAMFLiU0XQABHdhaXRzcQB+AAxnDF4wdAAKcG9raVBvdGlvbnNxAH4ADBbTPAp0AA0kYXNJbnN0YW5jZU9mc3EAfgAM29PHWXQADWNoYXJSaWdodExlZnRzcQB+AAxcmo57dAAHbWFwVHlwZXNxAH4ADK4ceGJ0AA5jaGFyU3RhbmRpbmdVcHNxAH4ADPwYt/Z0AAZwY1Bva2lzcQB+AAzruz+JdAAGY2hhclVwc3EAfgAMLyBslXQABmVxdWFsc3NxAH4ADBkiQkR0AAlwb2tpYmFsbHNzcQB+AAzFTe4JdAAMYXNJbnN0YW5jZU9mc3EAfgAM2fkfNXQADHNldENoYXJhY3RlcnNxAH4ADJd4+350ABBjaGFyU3RhbmRpbmdEb3duc3EAfgAMu8qP+3QAB2Nvb3Jkc1lzcQB+AAzVMLIWdAAMc3luY2hyb25pemVkc3EAfgAMGlF0gnQADGNoYXJMZWZ0RG93bnNxAH4ADE0zp2J0AAhmcmVlUG9raXNxAH4ADOokAj10AA0kaXNJbnN0YW5jZU9mc3EAfgAMzdKGunQAEWNoYXJTdGFuZGluZ1JpZ2h0c3EAfgAMVmBPn3QACmNoZWNrQWxpdmVzcQB+AAwXZdeDdAAEY2hhcnNxAH4ADKgN2Jt0AApjaGFyTGVmdFVwc3EAfgAMRnd3s3QACW5vdGlmeUFsbHNxAH4ADL9Es910AA5tb2RpZnlQb2tpYmFsbHNxAH4ADNjotM50AApjYXVnaHRQb2tpc3EAfgAM5UWqgnQABXNldFhZc3EAfgAMacXtonQAD3ByZXZpb3VzQ29vcmRzWXNxAH4ADIO85eN0AAxpc0luc3RhbmNlT2ZzcQB+AAxURE/MdAANY2hhclJpZ2h0RG93bnNxAH4ADDXc81B0AAljaGFyUmlnaHRzcQB+AAxR7KUKdAAGPGluaXQ+c3EAfgAMxldMFXQAD3ByZXZpb3VzTWFwVHlwZXNxAH4ADATOJ4l0AAdjb29yZHNYc3EAfgAM1d4B8nQACGNoYXJMZWZ0c3EAfgAMzgiIPnQAEGNoYXJTdGFuZGluZ0xlZnRzcQB+AAxN1kGCdAACPT1zcQB+AAyFxB86dAAQcG9raVBvdGlvbkJ1ZmZlcnNxAH4ADMRpHEh0AAxzZXREaXJlY3Rpb25zcQB+AAxtKYaCdAAFY2xvbmVzcQB+AAym0B5mdAALY2hhclJpZ2h0VXBzcQB+AAzkJFMldAAIY2hhclR5cGVzcQB+AAyKnINydAAGbWFwTnVtc3EAfgAM27DAH3QACGNoYXJEb3duc3EAfgAMuySlYHQAD3ByZXZpb3VzQ29vcmRzWHNxAH4ADP3bYQB0AAh0b1N0cmluZ3NxAH4ADD8wROF0AA5wb2tpYmFsbEJ1ZmZlcnNxAH4ADAjV2Yp0AA5jaGFyUmlnaHRSaWdodHNxAH4ADGE6z5R0AAIhPXNxAH4ADJsK6TV0AAhtb25leUludHNxAH4ADOcrU+90AAhnZXRDbGFzc3NxAH4ADExWdc90AA1jaGFyTGVmdFJpZ2h0c3EAfgAMqLwVMXQAEG1vZGlmeVBva2lQb3Rpb25zcQB+AAyMkTIidAACbmVzcQB+AAzfnOWFdAACZXFzcQB+AAw22ANodAALdHJhaW5lclBva2lzcQB+AAzNqSuIdAACIyNzcQB+AAy0XfvndAAIZmluYWxpemVzcQB+AAxR+srDdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCZeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAMV29ybGQuUGxheWVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+ALFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AmUwACWluaGVyaXRlZHEAfgCZTAAHcGFyZW50c3EAfgCZeHEAfgC2c3EAfgCxdXEAfgCUAAAAAHNxAH4AsXVxAH4AlAAAAABzcQB+ALF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ALV0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ALVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AM9zcQB+AMJxAH4AxXNxAH4AxnNxAH4AyXVxAH4AzAAAAANzcQB+AM50AARqYXZhc3EAfgDOdAACaW9xAH4A03NxAH4AwnQABk9iamVjdHNxAH4AxnNxAH4AyXVxAH4AzAAAAANzcQB+AM5xAH4A2XNxAH4AznQABGxhbmdxAH4A03NxAH4AwnQAA0FueXEAfgDIdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAFV29ybGRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV7JAIhcdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAREM6XFVzZXJzXFBDXERlc2t0b3BcUG9rZW1vbiBNTU8gU2VydmVyXGJpblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUdicjrKe237KTfUhs7KWREqrWbPY=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwGhZCBgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHAkn3abdAAEc2VsZnNxAH4AC3+YQWx0AAdjb250ZXh0dXEAfgAJAAAAQ3NxAH4AC0XlOoJ0AAZub3RpZnlzcQB+AAsKDMv3dAAHUmVjZWl2ZXNxAH4ACzZGr7N0ABNlcnJvclByb25lU3RhdGVtZW50c3EAfgALGFGkH3QAClNlcnZlckFra2FzcQB+AAsdvq6zdAAHcGxheWVyc3NxAH4AC7Dmi790AAR3YWl0c3EAfgALbccumHQADSRhc0luc3RhbmNlT2ZzcQB+AAsihiJUdAAGc3lzdGVtc3EAfgALVUTcfXQAE21vdmVtZW50U2VydmVyQWN0b3JzcQB+AAsYUobSdAAGZXF1YWxzc3EAfgALDQy6e3QADGFzSW5zdGFuY2VPZnNxAH4ACzauAgd0AA5leGVjdXRpb25TdGFydHNxAH4AC6j932d0AAxzeW5jaHJvbml6ZWRzcQB+AAvT3tXqdAANJGlzSW5zdGFuY2VPZnNxAH4AC9qWoJt0AAdyZWNlaXZlc3EAfgALEYmiinQACnByZVJlc3RhcnRzcQB+AAvZx0mudAANYXJvdW5kUmVjZWl2ZXNxAH4AC6zDpXR0AAxCYXR0bGVTZXJ2ZXJzcQB+AAtuPOdLdAAGY29uZmlnc3EAfgALVzP8/3QAC3Bvc3RSZXN0YXJ0c3EAfgALWGihSnQABG1haW5zcQB+AAsZQ8lvdAAIcG9zdFN0b3BzcQB+AAsFnthfdAAJbm90aWZ5QWxsc3EAfgALVdP0SHQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgAL15unV3QADk1vdmVtZW50U2VydmVyc3EAfgALXiF97HQADGlzSW5zdGFuY2VPZnNxAH4AC5zReyJ0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgAL+8kELXQADmFyb3VuZFBvc3RTdG9wc3EAfgALnUTIonQADWJyZWFrYWJsZUxvb3BzcQB+AAtQMELpdAAGPGluaXQ+c3EAfgALHwu3Z3QACHByZVN0YXJ0c3EAfgALAMkz0XQACXVuaGFuZGxlZHNxAH4AC9ZDS510ABBsb2dpblNlcnZlckFjdG9yc3EAfgALq5PawnQAEXdhaXRpbmdCYXR0bGVMaXN0c3EAfgALpMYnPXQAAj09c3EAfgAL9uqconQABWNsb25lc3EAfgAL1r68HHQADWNsaWVudENvb3Jkc1lzcQB+AAsXLIAmdAAGY2xpZW50c3EAfgALfLCHM3QAC0xvZ2luUm91dGVyc3EAfgAL94yoKHQABiRpbml0JHNxAH4ACyddAAV0AAxCYXR0bGVSb3V0ZXJzcQB+AAvT1E8OdAAKY2xpZW50TGlzdHNxAH4AC2Pf7l50AApDbGllbnRJbmZvc3EAfgALi4C393QACmNsaWVudE5hbWVzcQB+AAu3XD7ndAAGc2VuZGVyc3EAfgALMVqF2XQAB2NvdW50ZXJzcQB+AAs/2LuZdAAIdG9TdHJpbmdzcQB+AAuZQ+fydAAEYXJnc3NxAH4AC9eTutZ0AAtMb2dpblNlcnZlcnNxAH4ACxNF1st0AAIhPXNxAH4ACzvN8cp0AAhnZXRDbGFzc3NxAH4AC7DhkGV0AAZ1cGRhdGVzcQB+AAtiqZGIdAALY2xpZW50QWN0b3JzcQB+AAvMh3x+dAAIZmlsZU1haW5zcQB+AAtLnvjldAANcHJvY2Vzc0JhdHRsZXNxAH4ACyIOcmF0AA1jbGllbnRDb29yZHNYc3EAfgALY6BcjXQAAm5lc3EAfgALjAnGY3QABnJvdXRlcnNxAH4AC3bE6kN0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAu81rRidAACZXFzcQB+AAtvzCXzdAALZGVsYXllZEluaXRzcQB+AAthoe15dAAOTW92ZW1lbnRSb3V0ZXJzcQB+AAvyWKVldAACIyNzcQB+AAsmFq6SdAAIZmluYWxpemVzcQB+AAteoXXEdAARYmF0dGxlU2VydmVyQWN0b3JzcQB+AAtc7intdAAIaGFzaENvZGVzcQB+AAs7WeEUdAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAIc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCheHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAQV29ybGQuU2VydmVyQWtrYXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWRzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Au3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgChTAAJaW5oZXJpdGVkcQB+AKFMAAdwYXJlbnRzcQB+AKF4cQB+AMBzcQB+ALt1cQB+AJwAAAAAc3EAfgC7dXEAfgCcAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCicQB+AKt1cQB+AKwAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgDKeHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADEwABXZhbHVlcQB+AAx4cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AL90ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Av3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4A5HNxAH4ArgBxAH4AO3VxAH4AsQAAAABzcQB+ANd0AARVbml0cQB+AN11cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADEwAA3RwZXEAfgDKeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgC0dAAFUGxhaW5xAH4AcXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4A2FsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4Av3NxAH4A13QABUFycmF5cQB+AN11cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4A13QABlN0cmluZ3NxAH4A23NxAH4A3nVxAH4A4QAAAANzcQB+AON0AARqYXZhc3EAfgDjdAAEbGFuZ3EAfgDoc3EAfgC7dXEAfgD/AAAABHNxAH4A13QAA0FwcHEAfgDdc3EAfgDXdAALRGVsYXllZEluaXRxAH4A3XNxAH4A13QABk9iamVjdHEAfgEDc3EAfgDXdAADQW55cQB+AN1zcQB+AJ5xAH4Aq3VxAH4ArAAAAABzcQB+AK4AdAAQV29ybGQuQ2xpZW50SW5mb3VxAH4AsQAAAAB+cQB+ALN0AAhDbGFzc0RlZnVxAH4AtwAAAABzcQB+ALtxAH4AwXNxAH4Au3NxAH4Aw3NxAH4Au3VxAH4AnAAAAABzcQB+ALt1cQB+AJwAAAAAc3EAfgC7dXEAfgD/AAAAAnNxAH4A13EAfgERc3EAfgDbc3EAfgDedXEAfgDhAAAAA3NxAH4A43EAfgEHc3EAfgDjcQB+AQlxAH4A6HNxAH4A13EAfgETc3EAfgDbc3EAfgDedXEAfgDhAAAAAnNxAH4A43EAfgDmcQB+AOhzcQB+AJ5xAH4Aq3VxAH4ArAAAAABzcQB+AK4AdAARV29ybGQuTG9naW5Sb3V0ZXJ1cQB+ALEAAAAAcQB+ARl1cQB+ALcAAAAAc3EAfgC7cQB+AMFzcQB+ALtzcQB+AMNzcQB+ALt1cQB+AJwAAAAAc3EAfgC7dXEAfgCcAAAAAHNxAH4Au3VxAH4A/wAAAANzcQB+ANd0AAVBY3RvcnNxAH4A23NxAH4A3nVxAH4A4QAAAANzcQB+AON0AARha2thc3EAfgDjdAAFYWN0b3JxAH4A6HNxAH4A13EAfgERc3EAfgDbc3EAfgDedXEAfgDhAAAAA3NxAH4A43EAfgEHc3EAfgDjcQB+AQlxAH4A6HNxAH4A13EAfgETc3EAfgDbc3EAfgDedXEAfgDhAAAAAnNxAH4A43EAfgDmcQB+AOhzcQB+AJ5xAH4Aq3VxAH4ArAAAAABzcQB+AK4AdAARV29ybGQuTG9naW5TZXJ2ZXJ1cQB+ALEAAAAAcQB+ARl1cQB+ALcAAAAAc3EAfgC7cQB+AMFzcQB+ALtzcQB+AMNzcQB+ALt1cQB+AJwAAAAAc3EAfgC7dXEAfgCcAAAAAHNxAH4Au3VxAH4A/wAAAANzcQB+ANd0AAVBY3RvcnNxAH4A23NxAH4A3nVxAH4A4QAAAANzcQB+AON0AARha2thc3EAfgDjdAAFYWN0b3JxAH4A6HNxAH4A13EAfgERc3EAfgDbc3EAfgDedXEAfgDhAAAAA3NxAH4A43EAfgEHc3EAfgDjcQB+AQlxAH4A6HNxAH4A13EAfgETc3EAfgDbc3EAfgDedXEAfgDhAAAAAnNxAH4A43EAfgDmcQB+AOhzcQB+AJ5xAH4Aq3VxAH4ArAAAAABzcQB+AK4AdAASV29ybGQuQmF0dGxlUm91dGVydXEAfgCxAAAAAHEAfgEZdXEAfgC3AAAAAHNxAH4Au3EAfgDBc3EAfgC7c3EAfgDDc3EAfgC7dXEAfgCcAAAAAHNxAH4Au3VxAH4AnAAAAABzcQB+ALt1cQB+AP8AAAADc3EAfgDXdAAFQWN0b3JzcQB+ANtzcQB+AN51cQB+AOEAAAADc3EAfgDjdAAEYWtrYXNxAH4A43QABWFjdG9ycQB+AOhzcQB+ANdxAH4BEXNxAH4A23NxAH4A3nVxAH4A4QAAAANzcQB+AONxAH4BB3NxAH4A43EAfgEJcQB+AOhzcQB+ANdxAH4BE3NxAH4A23NxAH4A3nVxAH4A4QAAAAJzcQB+AONxAH4A5nEAfgDoc3EAfgCecQB+AKt1cQB+AKwAAAAAc3EAfgCuAHQAEldvcmxkLkJhdHRsZVNlcnZlcnVxAH4AsQAAAABxAH4BGXVxAH4AtwAAAABzcQB+ALtxAH4AwXNxAH4Au3NxAH4Aw3NxAH4Au3VxAH4AnAAAAABzcQB+ALt1cQB+AJwAAAAAc3EAfgC7dXEAfgD/AAAAA3NxAH4A13QABUFjdG9yc3EAfgDbc3EAfgDedXEAfgDhAAAAA3NxAH4A43QABGFra2FzcQB+AON0AAVhY3RvcnEAfgDoc3EAfgDXcQB+ARFzcQB+ANtzcQB+AN51cQB+AOEAAAADc3EAfgDjcQB+AQdzcQB+AONxAH4BCXEAfgDoc3EAfgDXcQB+ARNzcQB+ANtzcQB+AN51cQB+AOEAAAACc3EAfgDjcQB+AOZxAH4A6HNxAH4AnnEAfgCrdXEAfgCsAAAAAHNxAH4ArgB0ABRXb3JsZC5Nb3ZlbWVudFJvdXRlcnVxAH4AsQAAAABxAH4BGXVxAH4AtwAAAABzcQB+ALtxAH4AwXNxAH4Au3NxAH4Aw3NxAH4Au3VxAH4AnAAAAABzcQB+ALt1cQB+AJwAAAAAc3EAfgC7dXEAfgD/AAAAA3NxAH4A13QABUFjdG9yc3EAfgDbc3EAfgDedXEAfgDhAAAAA3NxAH4A43QABGFra2FzcQB+AON0AAVhY3RvcnEAfgDoc3EAfgDXcQB+ARFzcQB+ANtzcQB+AN51cQB+AOEAAAADc3EAfgDjcQB+AQdzcQB+AONxAH4BCXEAfgDoc3EAfgDXcQB+ARNzcQB+ANtzcQB+AN51cQB+AOEAAAACc3EAfgDjcQB+AOZxAH4A6HNxAH4AnnEAfgCrdXEAfgCsAAAAAHNxAH4ArgB0ABRXb3JsZC5Nb3ZlbWVudFNlcnZlcnVxAH4AsQAAAABxAH4BGXVxAH4AtwAAAABzcQB+ALtxAH4AwXNxAH4Au3NxAH4Aw3NxAH4Au3VxAH4AnAAAAABzcQB+ALt1cQB+AJwAAAAAc3EAfgC7dXEAfgD/AAAAA3NxAH4A13QABUFjdG9yc3EAfgDbc3EAfgDedXEAfgDhAAAAA3NxAH4A43QABGFra2FzcQB+AON0AAVhY3RvcnEAfgDoc3EAfgDXcQB+ARFzcQB+ANtzcQB+AN51cQB+AOEAAAADc3EAfgDjcQB+AQdzcQB+AONxAH4BCXEAfgDoc3EAfgDXcQB+ARNzcQB+ANtzcQB+AN51cQB+AOEAAAACc3EAfgDjcQB+AOZxAH4A6HVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQABVdvcmxkc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFeyQCIXHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AERDOlxVc2Vyc1xQQ1xEZXNrdG9wXFBva2Vtb24gTU1PIFNlcnZlclxiaW5cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFHeDN29kIh93vuqyQfB8eiFxuJKr
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwGcKYuQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwhYcoVnQABm5vdGlmeXNxAH4ADIeowOZ0AAR3YWl0c3EAfgAMw/XdT3QADSRhc0luc3RhbmNlT2ZzcQB+AAyDTGh5dAAHRWxlbWVudHNxAH4ADB/DQ210AAZlcXVhbHNzcQB+AAz4oYyydAAOZ2V0SW50RnJvbUVsZW1zcQB+AAwSDoV0dAAMYXNJbnN0YW5jZU9mc3EAfgAMjTVv13QADHN5bmNocm9uaXplZHNxAH4ADIiTKRx0AA0kaXNJbnN0YW5jZU9mc3EAfgAMLSA2FXQACW5vdGlmeUFsbHNxAH4ADOyx4sx0AAxpc0luc3RhbmNlT2ZzcQB+AAzCTN0GdAANZ2V0TXVsdGlwbGllcnNxAH4ADCbIfs50AAxyZWxhdGlvbnNoaXBzcQB+AAz97QY4dAACPT1zcQB+AAyHIDTIdAAFY2xvbmVzcQB+AAxByd5rdAAIdG9TdHJpbmdzcQB+AAy4+OOUdAAHZWxlbVJlcHNxAH4ADEMDdtR0AAIhPXNxAH4ADGp1tVp0AAhnZXRDbGFzc3NxAH4ADHWPkFd0AAJuZXNxAH4ADCiX91d0AAJlcXNxAH4ADEXmAD50AAIjI3NxAH4ADL7ysR50AAhmaW5hbGl6ZXNxAH4ADImxIAN0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABNXb3JsZE9iamVjdC5FbGVtZW50dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBfc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AZHNxAH4AX3VxAH4AQgAAAABzcQB+AF91cQB+AEIAAAAAc3EAfgBfdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAARzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBjdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBjc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB9c3EAfgBwcQB+AHNzcQB+AHRzcQB+AHd1cQB+AHoAAAADc3EAfgB8dAAEamF2YXNxAH4AfHQAAmlvcQB+AIFzcQB+AHB0AAZPYmplY3RzcQB+AHRzcQB+AHd1cQB+AHoAAAADc3EAfgB8cQB+AIdzcQB+AHx0AARsYW5ncQB+AIFzcQB+AHB0AANBbnlxAH4AdnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAC1dvcmxkT2JqZWN0c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFeyQCIXHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AERDOlxVc2Vyc1xQQ1xEZXNrdG9wXFBva2Vtb24gTU1PIFNlcnZlclxiaW5cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFICnAqUU5HTHIL0JbqdT96LPg6mE
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwTWVOlAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAzc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwMPhV23QADnRvU3RyaW5nQmF0dGxlc3EAfgAM8k2OenQABmhlYWx0aHNxAH4ADNVjVHF0AAZub3RpZnlzcQB+AAxv1hH6dAAMYmF0dGxlRGFtYWdlc3EAfgAM5pMxrnQADWJhdHRsZURlZmVuc2VzcQB+AAz2K5CqdAAEd2FpdHNxAH4ADKAp52J0AA0kYXNJbnN0YW5jZU9mc3EAfgAMAZHPR3QAD2JhdHRsZURlZmVuc2VfPXNxAH4ADMZOrhl0AAdwb2tpbW9uc3EAfgAMYjyBNHQADWNyZWF0ZVBva2ltb25zcQB+AAzj/D6mdAAMZ2V0SW1hZ2VQYXRoc3EAfgAMN1AVK3QABmVxdWFsc3NxAH4ADMfXHl90AA5fYmF0dGxlRGVmZW5zZXNxAH4ADM9dfBt0AAxhc0luc3RhbmNlT2ZzcQB+AAyOwrjFdAAQcHVraW1hbkRpcmVjdG9yeXNxAH4ADL+XqjZ0AAxzeW5jaHJvbml6ZWRzcQB+AAwr/rAtdAAIaGVhbHRoXz1zcQB+AAx1bJr8dAANJGlzSW5zdGFuY2VPZnNxAH4ADD2zL+Z0AAhnZXRJbWFnZXNxAH4ADGrQqXB0AA5iYXR0bGVEYW1hZ2VfPXNxAH4ADNf48jl0AAtkZWJ1ZmZTa2lsbHNxAH4ADMST4bl0AA1fYmF0dGxlRGFtYWdlc3EAfgAMonEHvXQACW5vdGlmeUFsbHNxAH4ADDgOVGt0AAdlbGVtZW50c3EAfgAMqMWt7XQACWltYWdlUGF0aHNxAH4ADGvFDiF0AAxpc0luc3RhbmNlT2ZzcQB+AAwLwkw1dAAJYnVmZlNraWxsc3EAfgAMYp0L7nQABjxpbml0PnNxAH4ADFonWfF0AAd0YWtlRG1nc3EAfgAMeNWTmXQAAj09c3EAfgAMcMTo13QABGhlYWxzcQB+AAwt4Q9kdAAFY2xvbmVzcQB+AAylj+WFdAAJbWF4SGVhbHRoc3EAfgAMZmMfBHQAB2xldmVsVXBzcQB+AAxFYvHcdAAFZG9EbWdzcQB+AAxfuhEKdAAHUG9raW1vbnNxAH4ADNp1Mel0AAdwdWtpbWFuc3EAfgAMyc2MBHQABGNvcHlzcQB+AAwZ81LSdAAFcmVzZXRzcQB+AAz0su8RdAAIdG9TdHJpbmdzcQB+AAzrFI/MdAACIT1zcQB+AAx9W3GEdAAJcG9raUxldmVsc3EAfgAM5w5QpnQACGdldENsYXNzc3EAfgAMxbS7nXQACHNraWxsU2V0c3EAfgAM6VU0hXQAAm5lc3EAfgAMolSmgnQAAmVxc3EAfgAMENzGCHQAB19oZWFsdGhzcQB+AAwgBVlSdAACIyNzcQB+AAxQZOJZdAAFc3BlZWRzcQB+AAx9k/i6dAAIZmluYWxpemVzcQB+AAyEzksZdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgB9eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAATV29ybGRPYmplY3QuUG9raW1vbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCVc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AH1MAAlpbmhlcml0ZWRxAH4AfUwAB3BhcmVudHNxAH4AfXhxAH4AmnNxAH4AlXVxAH4AeAAAAABzcQB+AJV1cQB+AHgAAAAAc3EAfgCVdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAARzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCZdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCZc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCzc3EAfgCmcQB+AKlzcQB+AKpzcQB+AK11cQB+ALAAAAADc3EAfgCydAAEamF2YXNxAH4AsnQAAmlvcQB+ALdzcQB+AKZ0AAZPYmplY3RzcQB+AKpzcQB+AK11cQB+ALAAAAADc3EAfgCycQB+AL1zcQB+ALJ0AARsYW5ncQB+ALdzcQB+AKZ0AANBbnlxAH4ArHNxAH4AenEAfgCHdXEAfgCIAAAAAHNxAH4AigB0ABNXb3JsZE9iamVjdC5Qb2tpbW9udXEAfgCNAAAAAH5xAH4Aj3QABk1vZHVsZXVxAH4AkwAAAABzcQB+AJVxAH4Am3NxAH4AlXNxAH4AnXNxAH4AlXVxAH4AeAAAAABzcQB+AJV1cQB+AHgAAAAAc3EAfgCVdXEAfgCkAAAABHNxAH4ApnEAfgCpc3EAfgCqc3EAfgCtdXEAfgCwAAAAAnNxAH4AsnEAfgC1cQB+ALdzcQB+AKZxAH4AqXNxAH4AqnNxAH4ArXVxAH4AsAAAAANzcQB+ALJxAH4AvXNxAH4AsnQAAmlvcQB+ALdzcQB+AKZxAH4AwXNxAH4AqnNxAH4ArXVxAH4AsAAAAANzcQB+ALJxAH4AvXNxAH4AsnEAfgDHcQB+ALdzcQB+AKZxAH4AyXEAfgDcdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAALV29ybGRPYmplY3RzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV7JAIhcdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAREM6XFVzZXJzXFBDXERlc2t0b3BcUG9rZW1vbiBNTU8gU2VydmVyXGJpblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUSRYf44IkGQPT7/4UQ0y3qQjCaBs=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwmnXX3QAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAdc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwAzmNJHQABm5vdGlmeXNxAH4ADPI1GV50AARuYW1lc3EAfgAMQEj8/3QABHdhaXRzcQB+AAxR2zX8dAANJGFzSW5zdGFuY2VPZnNxAH4ADKGMT4B0AAZlcXVhbHNzcQB+AAyEVBDxdAALZGVzY3JpcHRpb25zcQB+AAz/xzRGdAAMYXNJbnN0YW5jZU9mc3EAfgAMrIGDGXQADHN5bmNocm9uaXplZHNxAH4ADB+5IoB0AA0kaXNJbnN0YW5jZU9mc3EAfgAMrW5PCXQABVNraWxsc3EAfgAMWKA2knQACW5vdGlmeUFsbHNxAH4ADLsqmrh0AAlTa2lsbERhdGFzcQB+AAyeH3WIdAAHZWxlbWVudHNxAH4ADCDB3kJ0AAxpc0luc3RhbmNlT2ZzcQB+AAxIcHxbdAARRWxlbWVudExldmVsUG93ZXJzcQB+AAy5jQAKdAAGPGluaXQ+c3EAfgAMSCPBjHQAAj09c3EAfgAMiNr+IXQABWNsb25lc3EAfgAMwBbKYXQACHRvU3RyaW5nc3EAfgAMKPj3SHQAAiE9c3EAfgAM3dU6inQACGdldENsYXNzc3EAfgAM2h+zb3QABXBvd2Vyc3EAfgAMuwzQTnQAAm5lc3EAfgAMNGIpPXQAAmVxc3EAfgAMGP8ETXQAAiMjc3EAfgAMi24z2nQACGZpbmFsaXplc3EAfgAMJ1SPz3QACGhhc2hDb2Rlc3EAfgAMmZnzdHQADVNraWxsRGF0YUluaXRzcQB+AAwJxGCDdAAFbGV2ZWxzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBReHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAEdAARV29ybGRPYmplY3QuU2tpbGx1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AaXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBRTAAJaW5oZXJpdGVkcQB+AFFMAAdwYXJlbnRzcQB+AFF4cQB+AG5zcQB+AGl1cQB+AEwAAAAAc3EAfgBpdXEAfgBMAAAAAHNxAH4AaXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAEc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AbXQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AbXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ah3NxAH4AenEAfgB9c3EAfgB+c3EAfgCBdXEAfgCEAAAAA3NxAH4AhnQABGphdmFzcQB+AIZ0AAJpb3EAfgCLc3EAfgB6dAAGT2JqZWN0c3EAfgB+c3EAfgCBdXEAfgCEAAAAA3NxAH4AhnEAfgCRc3EAfgCGdAAEbGFuZ3EAfgCLc3EAfgB6dAADQW55cQB+AIBzcQB+AE5xAH4AW3VxAH4AXAAAAABzcQB+AF4AdAARV29ybGRPYmplY3QuU2tpbGx1cQB+AGEAAAAAfnEAfgBjdAAGTW9kdWxldXEAfgBnAAAAAHNxAH4AaXEAfgBvc3EAfgBpc3EAfgBxc3EAfgBpdXEAfgBMAAAAAHNxAH4AaXVxAH4ATAAAAABzcQB+AGl1cQB+AHgAAAAEc3EAfgB6cQB+AH1zcQB+AH5zcQB+AIF1cQB+AIQAAAACc3EAfgCGcQB+AIlxAH4Ai3NxAH4AenEAfgB9c3EAfgB+c3EAfgCBdXEAfgCEAAAAA3NxAH4AhnEAfgCRc3EAfgCGdAACaW9xAH4Ai3NxAH4AenEAfgCVc3EAfgB+c3EAfgCBdXEAfgCEAAAAA3NxAH4AhnEAfgCRc3EAfgCGcQB+AJtxAH4Ai3NxAH4AenEAfgCdcQB+ALB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAtXb3JsZE9iamVjdHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXskAiFx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABEQzpcVXNlcnNcUENcRGVza3RvcFxQb2tlbW9uIE1NTyBTZXJ2ZXJcYmluXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQ8OKruvsIuUK2Kb0bBrWfADTlkRA==
+external apis:
+0 items
+source infos:
+6 items
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Messages.scala -> 
+AAAAAAAAAAA=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\Player.scala -> 
+AAAAAAAAAAA=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\World\ServerAkka.scala -> 
+AAAAAAAAAAA=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Element.scala -> 
+AAAAAAAAAAA=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Pokimon.scala -> 
+AAAAAAAAAAA=
+C:\Users\PC\Desktop\Pokemon MMO Server\bin\src\main\scala\WorldObject\Skill.scala -> 
+AAAAAAAAAAA=
+compilations:
+14 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWF6F8B91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARUM6XFVzZXJzXExlbm92b1x3b3Jrc3BhY2VcUHVraW1hblNlcnZlclxiaW5cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWF6IG651cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARUM6XFVzZXJzXExlbm92b1x3b3Jrc3BhY2VcUHVraW1hblNlcnZlclxiaW5cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWHD347t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUUM6XFVzZXJzXFBDXERlc2t0b3BcQWtrYSBQdWtpbWFuXFB1a2ltYW5TZXJ2ZXIgQWtrYVxiaW5cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWH17ZOZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XFVzZXJzXFBDXERlc2t0b3BcVXNlIHRoaXNcUHVraW1hblNlcnZlclxiaW5cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWIZXl/B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0M6XFVzZXJzXFBDXERlc2t0b3BcUHVraW1hblNlcnZlclxiaW5cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWIeYNLB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0M6XFVzZXJzXFBDXERlc2t0b3BcUHVraW1hblNlcnZlclxiaW5cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWI2julV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0M6XFVzZXJzXFBDXERlc2t0b3BcUHVraW1hblNlcnZlclxiaW5cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWJUMXVF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARUM6XFVzZXJzXDEyMDc5MDU5XERlc2t0b3BcUHVraW1hblNlcnZlclxiaW5cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWKTpWoh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFBDXERlc2t0b3BcbGF0ZXN0XFB1a2ltYW5TZXJ2ZXJcYmluXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWKoo4IV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXFBDXERlc2t0b3BcTmV3IGZvbGRlclxQdWtpbWFuU2VydmVyXGJpblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWKtIiQZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUM6XFVzZXJzXHlpd2VuXERlc2t0b3BccHVraW1hXFB1a2ltYW5TZXJ2ZXJcYmluXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXshi8uZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0M6XFVzZXJzXFBDXERlc2t0b3BccHVraW1hXFNlcnZlclxiaW5cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXsjef8x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAREM6XFVzZXJzXFBDXERlc2t0b3BcUG9rZW1vbiBNTU8gU2VydmVyXGJpblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXskAiFx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAREM6XFVzZXJzXFBDXERlc2t0b3BcUG9rZW1vbiBNTU8gU2VydmVyXGJpblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==

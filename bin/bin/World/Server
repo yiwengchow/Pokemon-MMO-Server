@@ -1,0 +1,465 @@
+package World
+
+import java.net._
+import java.io._
+import scala.collection.mutable.{ArrayBuffer,ListMap}
+
+
+
+object Server extends App {
+  
+  var clientList = new ListMap[(String,Int),ArrayBuffer[ClientInfo]]
+  
+  @volatile var receiveArray = new ArrayBuffer[DatagramPacket]()
+  
+  var datagramSocket = new DatagramSocket(2047)
+  
+  Executor.exec.execute(new Thread(new Server))
+  
+  while (true) {
+      val buffer = Array.ofDim[Byte](1000)
+      val datagramPacket = new DatagramPacket(buffer, buffer.length)
+      
+      Server.datagramSocket.receive(datagramPacket)
+      receiveArray.append(datagramPacket) 
+  }
+  
+  
+}
+
+class Server extends Runnable{
+  
+  var reply : DatagramPacket = null
+  var datagramPacket : DatagramPacket = null
+  var client : ClientInfo = null
+  
+  var name : String = null
+  var oppName : String = null
+  var playername : String = null
+  var coordsX : Integer = null
+  var coordsY : Integer = null
+  var mapNum : Integer = null
+  var mapType : String = null
+  var preMapNum : Integer = null
+  var preMapType : String = null
+  var chatMessage : String = null
+  var typeMessage : String = null
+  var pokimon : String = null
+  var choice : String = null
+  var choiceMsg : String = null
+  
+  var update = false
+  
+  val waitingBattleList = ArrayBuffer[(ClientInfo,ClientInfo,Choice)]()
+  
+  def decrypt(requestSplit : Array[String]){
+    typeMessage = requestSplit(0)
+    println(typeMessage)
+    
+    typeMessage match{
+      case "movement" =>
+        name = requestSplit(1)
+        coordsX = Integer.parseInt(requestSplit(3))
+        coordsY = Integer.parseInt(requestSplit(4))
+        mapNum = Integer.parseInt(requestSplit(5))
+        mapType = requestSplit(6)
+        
+      case "message" =>
+        name = requestSplit(1)
+        mapNum = Integer.parseInt(requestSplit(2))
+        mapType = requestSplit(3)
+        chatMessage = requestSplit(4)
+        
+      case "changeMap" =>
+        name = requestSplit(1)
+        mapNum = Integer.parseInt(requestSplit(2))
+        mapType = requestSplit(3)
+        preMapNum = Integer.parseInt(requestSplit(4))
+        preMapType = requestSplit(5)
+        
+      case "battlereq" =>
+        name = requestSplit(1)
+        playername = requestSplit(2)
+        mapNum = Integer.parseInt(requestSplit(3))
+        mapType = requestSplit(4)
+        
+      case "battlereqaccepted" =>
+        name = requestSplit(1)
+        mapNum = Integer.parseInt(requestSplit(2))
+        mapType = requestSplit(3)
+        
+      case "battledetails" =>
+        name = requestSplit(1)
+        pokimon = requestSplit(2)
+        mapNum = Integer.parseInt(requestSplit(3))
+        mapType = requestSplit(4)
+        
+      case "battlechoice" =>
+        name = requestSplit(1)
+        oppName = requestSplit(2)
+        choice = requestSplit(3)
+        choiceMsg = requestSplit(4)
+        mapNum = Integer.parseInt(requestSplit(5))
+        mapType = requestSplit(6)
+        
+      case "changepokemon" =>
+        oppName = requestSplit(1)
+        pokimon = requestSplit(2)
+        mapNum = Integer.parseInt(requestSplit(3))
+        mapType = requestSplit(4)
+    }
+  }
+  
+  def movement(clientArray : ArrayBuffer[ClientInfo], request : String){
+    
+    client = getClient(clientArray)
+    
+    send(request, clientArray)
+  }
+  
+  def message(clients : ArrayBuffer[ClientInfo], request : String){
+    client = getClient(clients)
+    
+    send(request, clients)
+  }
+  
+  def requestBattle (receipient: ClientInfo){
+    val message = s"battlereq-$playername"
+    reply = new DatagramPacket(message.getBytes,message.length, receipient.clientAddress, receipient.clientPort)
+    Server.datagramSocket.send(reply)
+  }
+  
+  def acceptedBattleReturn (receipient: ClientInfo){
+    val message = s"battlereqaccepted"
+    reply = new DatagramPacket(message.getBytes,message.length, receipient.clientAddress, receipient.clientPort)
+    Server.datagramSocket.send(reply)
+  }
+  
+  def battleDetails (receipient: ClientInfo){
+    val message = s"battledetails-$pokimon"
+    reply = new DatagramPacket(message.getBytes,message.length, receipient.clientAddress, receipient.clientPort)
+    Server.datagramSocket.send(reply)
+  }
+  
+  def processBattleAndSend(playerOne : (ClientInfo, Choice), playerTwo: (ClientInfo, Choice)){
+    if((playerOne._2.isInstanceOf[Fight]&&playerTwo._2.isInstanceOf[Pokemon])||(playerOne._2.isInstanceOf[Pokemon]&&playerTwo._2.isInstanceOf[Fight])){
+//      println(playerOne._2.isInstanceOf[Fight]&&playerTwo._2.isInstanceOf[Pokemon])
+//      println(playerOne._2.isInstanceOf[Pokemon]&&playerTwo._2.isInstanceOf[Fight])
+      if(playerOne._2.isInstanceOf[Fight]&&playerTwo._2.isInstanceOf[Pokemon]){
+        playerTwo._2.asInstanceOf[Pokemon].health = playerTwo._2.asInstanceOf[Pokemon].health - playerOne._2.asInstanceOf[Fight].dmg
+        if(playerTwo._2.asInstanceOf[Pokemon].health <= 0)
+          playerTwo._2.asInstanceOf[Pokemon].health = 0
+        val message = s"battleresult-pokemonfight-${playerTwo._1.clientName}-${playerTwo._2.asInstanceOf[Pokemon].toString}"
+        reply = new DatagramPacket(message.getBytes,message.length, playerOne._1.clientAddress, playerOne._1.clientPort)
+        Server.datagramSocket.send(reply)
+        reply = new DatagramPacket(message.getBytes,message.length, playerTwo._1.clientAddress, playerTwo._1.clientPort)
+        Server.datagramSocket.send(reply)
+      }
+      else{
+        playerOne._2.asInstanceOf[Pokemon].health = playerOne._2.asInstanceOf[Pokemon].health - playerTwo._2.asInstanceOf[Fight].dmg
+        if(playerOne._2.asInstanceOf[Pokemon].health <= 0)
+          playerOne._2.asInstanceOf[Pokemon].health = 0
+        val message = s"battleresult-pokemonfight-${playerOne._1.clientName}-${playerOne._2.asInstanceOf[Pokemon].toString}"
+        println(message.split("\\n").mkString(" "))
+        reply = new DatagramPacket(message.getBytes,message.length, playerOne._1.clientAddress, playerOne._1.clientPort)
+        Server.datagramSocket.send(reply)
+        reply = new DatagramPacket(message.getBytes,message.length, playerTwo._1.clientAddress, playerTwo._1.clientPort)
+        Server.datagramSocket.send(reply)
+      }
+    }
+    else if(playerOne._2.isInstanceOf[Fight]&&playerTwo._2.isInstanceOf[Fight]){
+      if(playerOne._2.asInstanceOf[Fight].speed > playerTwo._2.asInstanceOf[Fight].speed){
+        playerTwo._2.asInstanceOf[Fight].health = playerTwo._2.asInstanceOf[Fight].health - playerOne._2.asInstanceOf[Fight].dmg
+        if(playerTwo._2.asInstanceOf[Fight].health <= 0){
+          playerTwo._2.asInstanceOf[Fight].health = 0
+          val message = s"battleresult-fightfight-${playerTwo._1.clientName} ^dead-${playerTwo._2.asInstanceOf[Fight].toStringDeath}"
+          println(playerOne._2.asInstanceOf[Fight].toString)
+          reply = new DatagramPacket(message.getBytes,message.length, playerOne._1.clientAddress, playerOne._1.clientPort)
+          Server.datagramSocket.send(reply)
+          reply = new DatagramPacket(message.getBytes,message.length, playerTwo._1.clientAddress, playerTwo._1.clientPort)
+          Server.datagramSocket.send(reply)
+        }
+        else{
+          playerOne._2.asInstanceOf[Fight].health = playerOne._2.asInstanceOf[Fight].health - playerTwo._2.asInstanceOf[Fight].dmg
+          var message = s"battleresult-fightfight-${playerOne._2.asInstanceOf[Fight].toString}-${playerTwo._2.asInstanceOf[Fight].toString}"
+          reply = new DatagramPacket(message.getBytes,message.length, playerOne._1.clientAddress, playerOne._1.clientPort)
+          Server.datagramSocket.send(reply)
+          message = s"battleresult-fightfight-${playerTwo._2.asInstanceOf[Fight].toString}-${playerOne._2.asInstanceOf[Fight].toString}"
+          reply = new DatagramPacket(message.getBytes,message.length, playerTwo._1.clientAddress, playerTwo._1.clientPort)
+          Server.datagramSocket.send(reply)
+        }
+      }
+      else{
+        playerOne._2.asInstanceOf[Fight].health = playerOne._2.asInstanceOf[Fight].health - playerTwo._2.asInstanceOf[Fight].dmg
+        if(playerOne._2.asInstanceOf[Fight].health <= 0){
+          playerOne._2.asInstanceOf[Fight].health = 0
+          val message = s"battleresult-fightfight-${playerOne._1.clientName} ^dead-${playerOne._2.asInstanceOf[Fight].toStringDeath}"
+          println(playerOne._2.asInstanceOf[Fight].toString)
+          reply = new DatagramPacket(message.getBytes,message.length, playerOne._1.clientAddress, playerOne._1.clientPort)
+          Server.datagramSocket.send(reply)
+          reply = new DatagramPacket(message.getBytes,message.length, playerTwo._1.clientAddress, playerTwo._1.clientPort)
+          Server.datagramSocket.send(reply)
+        }
+        else{
+          playerTwo._2.asInstanceOf[Fight].health = playerTwo._2.asInstanceOf[Fight].health - playerOne._2.asInstanceOf[Fight].dmg
+          var message = s"battleresult-fightfight-${playerTwo._2.asInstanceOf[Fight].toString}-${playerOne._2.asInstanceOf[Fight].toString}"
+          reply = new DatagramPacket(message.getBytes,message.length, playerTwo._1.clientAddress, playerTwo._1.clientPort)
+          Server.datagramSocket.send(reply)
+          message = s"battleresult-fightfight-${playerOne._2.asInstanceOf[Fight].toString}-${playerTwo._2.asInstanceOf[Fight].toString}"
+          reply = new DatagramPacket(message.getBytes,message.length, playerOne._1.clientAddress, playerOne._1.clientPort)
+          Server.datagramSocket.send(reply)
+        }
+      }
+    }
+    else{
+      var message = s"battleresult-pokemonpokemon-${playerOne._2.asInstanceOf[Pokemon].toString}-${playerTwo._2.asInstanceOf[Pokemon].toString}"
+      reply = new DatagramPacket(message.getBytes,message.length, playerOne._1.clientAddress, playerOne._1.clientPort)
+      Server.datagramSocket.send(reply)
+      message = s"battleresult-pokemonpokemon-${playerTwo._2.asInstanceOf[Pokemon].toString}-${playerOne._2.asInstanceOf[Pokemon].toString}"
+      reply = new DatagramPacket(message.getBytes,message.length, playerTwo._1.clientAddress, playerTwo._1.clientPort)
+      Server.datagramSocket.send(reply)
+    }
+  }
+  
+  def changePokimon (receipient: ClientInfo){
+    val message = s"changepokimon-$pokimon"
+    reply = new DatagramPacket(message.getBytes,message.length, receipient.clientAddress, receipient.clientPort)
+    Server.datagramSocket.send(reply)
+  }
+  
+  def changeMap(preClients : ArrayBuffer[ClientInfo], clients : ArrayBuffer[ClientInfo], request : String){
+    
+    updateOthers(preClients)
+    
+    val preClientsCopy = preClients.clone()
+    
+    for (x <- preClientsCopy){
+      if (x.clientName.equals(client.clientName)){
+        preClients.remove(preClients.indexOf(x))
+        Server.clientList.remove((preMapType,preMapNum))
+        Server.clientList.put((preMapType,preMapNum),preClients)
+      }
+    }
+    
+    clients.append(client)
+    Server.clientList.remove((mapType,mapNum))
+    Server.clientList.put((mapType,mapNum),clients)
+  }
+  
+  def getClient(clients : ArrayBuffer[ClientInfo]) : ClientInfo = {
+    var client = new ClientInfo(name,datagramPacket.getAddress, datagramPacket.getPort, coordsX, coordsY)
+    var exist = false
+    
+    for (x <- clients){
+      if (x.clientName.equals(client.clientName)){
+        x.clientCoordsX = client.clientCoordsX
+        x.clientCoordsY = client.clientCoordsY
+        client = x
+        exist = true
+      }
+    }
+    
+    if (!exist){
+      clients.append(client)
+      Server.clientList.remove((mapType,mapNum))
+      Server.clientList.put((mapType,mapNum), clients)
+      update = true
+    }
+    
+    return client
+  }
+  
+  def broadcast(request : String, client : ClientInfo){
+    datagramPacket.setData(request.getBytes)
+    reply = new DatagramPacket(datagramPacket.getData(),datagramPacket.getLength, client.clientAddress, client.clientPort)
+    Server.datagramSocket.send(reply)
+  }
+  
+  def send(request : String, clients : ArrayBuffer[ClientInfo]){
+    //update
+    
+    for (x <- clients){
+      if (update && !x.clientName.equals(client.clientName)){
+        var update = "movement-" + x.clientName + "-stopdown-" + x.clientCoordsX + "-" + x.clientCoordsY + "-"
+        datagramPacket.setData(update.getBytes)
+        reply = new DatagramPacket(datagramPacket.getData(),datagramPacket.getLength, client.clientAddress, client.clientPort)
+        Server.datagramSocket.send(reply)
+      }
+      
+      if (!x.clientName.equals(client.clientName)){
+        broadcast(request, x)
+      }
+    }
+  }
+  
+  def updateOthers(clients : ArrayBuffer[ClientInfo]){
+    for (x <- clients){
+      if (!x.clientName.equals(client.clientName)){
+        var update = "update-" + client.clientName + "-"
+        datagramPacket.setData(update.getBytes)
+        reply = new DatagramPacket(datagramPacket.getData(),datagramPacket.getLength, x.clientAddress, x.clientPort)
+        Server.datagramSocket.send(reply)
+      }
+    }
+  }
+  
+  def run(){
+    
+    while(true){
+      if (Server.receiveArray.size>0){
+        datagramPacket = Server.receiveArray(0)
+        Server.receiveArray.remove(0)
+        
+        val request = new String(datagramPacket.getData, 0, datagramPacket.getLength)
+        var requestSplit = request.split("-")
+        
+        decrypt(requestSplit)
+        
+        @volatile var clients = Server.clientList.getOrElse((mapType,mapNum), null)
+        
+        if (clients == null){
+          Server.clientList.put((mapType,mapNum), new ArrayBuffer[ClientInfo]())
+          clients = Server.clientList.getOrElse((mapType,mapNum), null)
+        }
+
+        if (typeMessage.equals("movement")){
+          movement(clients, request)
+        }
+        
+        else if (typeMessage.equals("message")){
+          message(clients, request)
+        }
+        
+        else if (typeMessage.equals("changeMap")){
+          val preClients = Server.clientList.getOrElse((preMapType,preMapNum), null)
+          client = getClient(preClients)
+          
+          changeMap(preClients, clients, request) 
+        }
+        
+        else if(typeMessage.equals("battlereq")){
+          val buffer = Server.clientList((mapType,mapNum))
+          var needs: ClientInfo = null
+          for(x <- buffer){
+            if(x.clientName.equals(name)){
+              needs = x
+            }
+          }
+          requestBattle(needs)
+        }
+        
+        else if(typeMessage.equals("battlereqaccepted")){
+          val buffer = Server.clientList((mapType,mapNum))
+          var needs: ClientInfo = null
+          for(x <- buffer){
+            if(x.clientName.equals(name)){
+              needs = x
+            }
+          }
+          acceptedBattleReturn(needs)
+        }
+        
+        else if(typeMessage.equals("battledetails")){
+          val buffer = Server.clientList((mapType,mapNum))
+          var needs: ClientInfo = null
+          for(x <- buffer){
+            if(x.clientName.equals(name)){
+              needs = x
+            }
+          }
+          battleDetails(needs)
+        }
+        
+        else if(typeMessage.equals("battlechoice")){
+          val buffer = Server.clientList((mapType,mapNum))
+          var oppInfo: ClientInfo = null
+          for(x <- buffer){
+            if(x.clientName.equals(oppName)){
+              oppInfo = x
+            }
+          }
+          var found = false
+          var oppChoice : (ClientInfo, Choice) = null
+          var index = 0
+          var indexFound = 0
+          for(x <- waitingBattleList){
+            if(x._1.clientName.equals(oppName)){
+              found = true
+              oppChoice = (oppInfo, x._3)
+              indexFound = index
+            }
+            index +=1
+          }
+          var playerInfo: ClientInfo = null
+          for(x <- buffer){
+            if(x.clientName.equals(name)){
+              playerInfo = x
+            }
+          }
+          println(playerInfo.clientName)
+          if(!found){
+            if(choice.equals("fight")){
+              waitingBattleList.append((playerInfo,oppInfo,Fight.parseFight(choiceMsg)))
+            }
+            else{
+              waitingBattleList.append((playerInfo,oppInfo,Pokemon.parsePokemon(choiceMsg)))
+            }
+          }
+          else{
+            waitingBattleList.remove(indexFound)
+            if(choice.equals("fight")){
+              processBattleAndSend(oppChoice, (playerInfo, Fight.parseFight(choiceMsg)))
+            }
+            else{
+              processBattleAndSend(oppChoice, (playerInfo, Pokemon.parsePokemon(choiceMsg)))
+            }
+          }
+        }
+        
+        else if(typeMessage.equals("changepokemon")){
+          val buffer = Server.clientList((mapType,mapNum))
+          var oppInfo: ClientInfo = null
+          for(x <- buffer){
+            if(x.clientName.equals(oppName)){
+              oppInfo = x
+            }
+          }
+          changePokimon(oppInfo)
+        }
+      }
+    }
+  }
+}
+
+class Choice{
+  
+}
+class Fight(var health: Double, val speed: Int, val dmg: Double) extends Choice{
+  override def toString : String = {
+    f"$health%.0f\n$speed\n$dmg%.0f"
+  }
+  def toStringDeath : String = {
+    f"0\n$speed\n$dmg%.0f"
+  }
+}
+object Fight{
+  def parseFight(message: String): Fight = {
+    val stuff = message.split("\\n")
+    new Fight(stuff(0).substring(stuff(0).indexOf(" ")+1, stuff(0).length).toDouble,stuff(1).substring(stuff(1).indexOf(" ")+1, stuff(1).length).toInt, stuff(2).substring(stuff(2).indexOf(" ")+1, stuff(2).length).toDouble)
+  }
+}
+class Pokemon(var details: String) extends Choice{
+  var health = 0.0
+  val detailsSplit = details.split("\\n")
+  health = detailsSplit(3).substring(detailsSplit(3).indexOf(" ")+1, detailsSplit(3).length).toDouble
+  override def toString : String = {
+    val healthModified = f"$health%.0f"
+    details = f"${detailsSplit(0)}\nElement: ${detailsSplit(1).substring(detailsSplit(1).indexOf(" ")+1, detailsSplit(1).length)}\nLv: ${detailsSplit(2).substring(detailsSplit(2).indexOf(" ")+1, detailsSplit(2).length)}\nHealth: ${healthModified.toString}"
+    details
+  }
+}
+object Pokemon{
+  def parsePokemon(message: String): Pokemon = {
+    new Pokemon(message)
+  }
+}
